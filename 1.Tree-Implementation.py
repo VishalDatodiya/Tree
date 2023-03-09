@@ -76,3 +76,10 @@ def takeInput():
 
 root = takeInput()
 printNode(root)
+
+# o/p
+
+# 1:2,3
+# 2:4,
+# 4:
+# 3:
